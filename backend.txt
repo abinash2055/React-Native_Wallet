@@ -1,0 +1,25 @@
+            For Backend
+    1.  npm init -y
+
+    2.  npm i express
+    
+    3.  npm i -D nodemon
+    
+    4.  npm i dotenv@16.5.0 cors@2.8.5 @neondatabase/serverless@1.0.0
+
+    5.  create server.js and type
+           
+    6.  Neon is online DataBase 
+    
+    7.  clerk is Authentication & user management website
+
+    8.  Upstash Database --> 
+        a. Password ==> AaqpAAIjcDFmY2Y0OWViMzZmZWQ0MjM5YTkzMmZjNjNkZTUyNWQ4MHAxMA
+
+        b. PORT ==> 6379
+        c. TLS/SSL ==> Enabled
+        d. Endpoints ==> solid-seahorse-43689.upstash.io
+
+    9. REST API ==> https://solid-seahorse-43689.upstash.io
+                and
+                ==> AaqpAAIjcDFmY2Y0OWViMzZmZWQ0MjM5YTkzMmZjNjNkZTUyNWQ4MHAxMA

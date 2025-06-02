@@ -1,0 +1,10 @@
+frontend means frontend activities
+        For Frontend
+    1. Go to that folder
+
+        To create a Project of react-native by cmd
+    2. 
+    a. "npx create-expo-app@latest <projectName>"
+    or
+    a. "npx create-expo-app@latest ." (dot means folder name already created)
+    
